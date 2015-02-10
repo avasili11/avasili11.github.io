@@ -1,6 +1,13 @@
 body {
     background-color:#F8D273;
 }
+h1 {font-family:Impact;
+    font-weight:bold;
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:25px
+    color: black;
+}
 img {
 	width:1270px;
 	height:800px;
