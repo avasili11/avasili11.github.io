@@ -12,7 +12,7 @@ img {
 	width:1270px;
 	height:800px;
 }
-table{height:400px;
+div div {height:400px;
     width:150px;
     border-color:black;
     background-color:yellow;
@@ -21,7 +21,7 @@ table{height:400px;
     border-radius:5px;
     margin:auto;
     text-align:left;
-    position:front;}
+    }
 a {
     text-decoration:none;
     color:green;
