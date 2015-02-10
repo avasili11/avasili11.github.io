@@ -28,31 +28,3 @@ a {
     font-family:Cursive;
     font-size:20px;
 }
-#menu .active a {
-	color: #fff;
-	background-position: center center;
-}
-#menu .about a {
-	width: 51px;
-	background-image: url(../images/menu.about.png);
-}
-
-#menu .gallery a {
-	width: 69px;
-	background-image: url(../images/menu.galleries.png);
-}
-
-#menu .services a {
-	width: 71px;
-	background-image: url(../images/menu.services.png);
-}
-}
-#menu .contacts a {
-	width: 107px;
-	background-image: url(../images/menu.contact.png);
-}
-
-#menu .facts a {
-	width: 172px;
-	background-image: url(../images/menu.facts.png);
-}
