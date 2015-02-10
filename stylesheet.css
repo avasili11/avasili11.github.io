@@ -22,3 +22,9 @@ table{height:600px;
     margin:auto;
     text-align:left;
     position:front;}
+a {
+    text-decoration:none;
+    color:green;
+    font-family:Cursive;
+    font-size:20px;
+}
