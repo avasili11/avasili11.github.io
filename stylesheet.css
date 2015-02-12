@@ -67,16 +67,16 @@ span {
 	color: #ffffff;
 }
 #gallery {
-    border-radius: 5px;
+	display: inline;
+	position: relative;
+	margin-left: 65px;
+	border-radius: 5px;
 	border: 2px solid #F8F8FF;
 	background-color: #F8F8FF;
 	height: 600px;
 	width:300px;
 	text-align: center;
 	font-family: Garamond, serif;
-	display: inline;
-	position: relative;
-	margin-left: 65px;
 }
 a {
 	text-decoration: none;
@@ -91,7 +91,14 @@ span {
 #contacts {
     display: inline;
 	position: relative;
-	margin-left: 85px;
+	margin-left: 85px
+    border-radius: 5px;
+	border: 2px solid #F8F8FF;
+	background-color: #F8F8FF;
+	height: 600px;
+	width:300px;
+	text-align: center;
+	font-family: Garamond, serif;;
 }
 a {
 	text-decoration: none;
