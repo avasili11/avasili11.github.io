@@ -28,3 +28,8 @@ a {
 	color: #3D59AB;
 	font-family: Verdana, sans-serif;
 }
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
