@@ -23,3 +23,8 @@ h1 {font-family:Impact;
 	margin: auto;
 	text-align: center;
 }
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
