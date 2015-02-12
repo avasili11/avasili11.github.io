@@ -40,7 +40,7 @@ span {
 #services {
 	display: inline;
 	position: relative;
-	margin-left: 25px;
+	margin-left: 45px;
 }
 a {
 	text-decoration: none;
@@ -55,7 +55,7 @@ span {
 #gallery {
     display: inline;
 	position: relative;
-	margin-left: 25px;
+	margin-left: 65px;
 }
 a {
 	text-decoration: none;
@@ -70,7 +70,7 @@ span {
 #contacts {
     display: inline;
 	position: relative;
-	margin-left: 25px;
+	margin-left: 85px;
 }
 a {
 	text-decoration: none;
