@@ -11,5 +11,6 @@ h1 {font-family:Impact;
 #homepic {
 	height:900px;
 	width: 14000px;
+	align: center;
 	background-image: url("http://saunamaroc.ma/wp-content/uploads/2011/09/sauna.jpg");
 }
