@@ -19,7 +19,6 @@ h1 {font-family:Impact;
 	background-color: #F8F8FF;
 	height: 600px;
 	width:300px;
-	margin:auto;
 	text-align: center;
 	font-family: Garamond, serif;
 }
@@ -41,7 +40,7 @@ span {
 #services {
 	display: inline;
 	position: relative;
-	margin-left: 65px;
+	margin-left: 25px;
 }
 a {
 	text-decoration: none;
@@ -54,13 +53,9 @@ span {
 	color: #ffffff;
 }
 #gallery {
-    border-radius: 5px;
-	border: 2px solid #F8F8FF;
-	background-color: #F8F8FF;
-	height: 600px;
-	width: 300px;
-	margin: auto;
-	text-align: center;
+    display: inline;
+	position: relative;
+	margin-left: 25px;
 }
 a {
 	text-decoration: none;
@@ -73,13 +68,9 @@ span {
 	color: #ffffff;
 }
 #contacts {
-    border-radius: 5px;
-	border: 2px solid #F8F8FF;
-	background-color: #F8F8FF;
-	height: 600px;
-	width: 300px;
-	margin: auto;
-	text-align: center;
+    display: inline;
+	position: relative;
+	margin-left: 25px;
 }
 a {
 	text-decoration: none;
