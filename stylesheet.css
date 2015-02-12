@@ -8,10 +8,10 @@ h1 {font-family:Impact;
     padding-bottom:25px
     color: black;
 }
-#homepic {
+homepic {
 	height:500px;
 	width: 1000px;
-background-image: ""http://saunamaroc.ma/wp-content/uploads/2011/09/sauna.jpg";
+	background-image: "http://saunamaroc.ma/wp-content/uploads/2011/09/sauna.jpg";
 }
 a {
     text-decoration:none;
