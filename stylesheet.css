@@ -15,7 +15,7 @@ h1 {font-family:Impact;
 }
 #about {
     border-radius: 5px;
-	border: 2px solid #6495ED;
+	border: 2px solid #F8F8FF;
 	background-color: #BCD2EE;
 	height: 150px;
 	width: 300px;
@@ -34,7 +34,7 @@ span {
 }
 #services {
     border-radius: 5px;
-	border: 2px solid #6495ED;
+	border: 2px solid #F8F8FF;
 	background-color: #BCD2EE;
 	height: 150px;
 	width: 300px;
@@ -53,7 +53,7 @@ span {
 }
 #gallery {
     border-radius: 5px;
-	border: 2px solid #6495ED;
+	border: 2px solid #F8F8FF;
 	background-color: #BCD2EE;
 	height: 150px;
 	width: 300px;
@@ -72,7 +72,7 @@ span {
 }
 #contacts {
     border-radius: 5px;
-	border: 2px solid #6495ED;
+	border: 2px solid #F8F8FF;
 	background-color: #BCD2EE;
 	height: 150px;
 	width: 300px;
