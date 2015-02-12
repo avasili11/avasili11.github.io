@@ -20,7 +20,10 @@ h1 {font-family:Impact;
 	height: 600px;
 	width: 300px;
 	margin: auto;
-	text-align: center;
+	text-align: center
+	display: inline;
+	position: relative;
+	margin-left: 25px;
 }
 a {
 	text-decoration: none;
@@ -39,7 +42,10 @@ span {
 	height: 600px;
 	width: 300px;
 	margin: auto;
-	text-align: center;
+	text-align: center
+	display: inline;
+	position: relative;
+	margin-left: 65px;
 }
 a {
 	text-decoration: none;
