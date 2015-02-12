@@ -67,7 +67,14 @@ span {
 	color: #ffffff;
 }
 #gallery {
-    display: inline;
+    border-radius: 5px;
+	border: 2px solid #F8F8FF;
+	background-color: #F8F8FF;
+	height: 600px;
+	width:300px;
+	text-align: center;
+	font-family: Garamond, serif;
+	display: inline;
 	position: relative;
 	margin-left: 65px;
 }
