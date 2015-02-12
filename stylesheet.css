@@ -16,7 +16,7 @@ h1 {font-family:Impact;
 #about {
     border-radius: 5px;
 	border: 2px solid #F8F8FF;
-	background-color: #BCD2EE;
+	background-color: #F8F8FF;
 	height: 150px;
 	width: 300px;
 	margin: auto;
@@ -24,7 +24,7 @@ h1 {font-family:Impact;
 }
 a {
 	text-decoration: none;
-	color: #3D59AB;
+	color: #F8F8FF;
 	font-family: Verdana, sans-serif;
 }
 span {
@@ -35,7 +35,7 @@ span {
 #services {
     border-radius: 5px;
 	border: 2px solid #F8F8FF;
-	background-color: #BCD2EE;
+	background-color: #F8F8FF;
 	height: 150px;
 	width: 300px;
 	margin: auto;
@@ -43,7 +43,7 @@ span {
 }
 a {
 	text-decoration: none;
-	color: #3D59AB;
+	color: #F8F8FF;
 	font-family: Verdana, sans-serif;
 }
 span {
@@ -54,7 +54,7 @@ span {
 #gallery {
     border-radius: 5px;
 	border: 2px solid #F8F8FF;
-	background-color: #BCD2EE;
+	background-color: #F8F8FF;
 	height: 150px;
 	width: 300px;
 	margin: auto;
@@ -62,7 +62,7 @@ span {
 }
 a {
 	text-decoration: none;
-	color: #3D59AB;
+	color: #F8F8FF;
 	font-family: Verdana, sans-serif;
 }
 span {
@@ -73,7 +73,7 @@ span {
 #contacts {
     border-radius: 5px;
 	border: 2px solid #F8F8FF;
-	background-color: #BCD2EE;
+	background-color: #F8F8FF;
 	height: 150px;
 	width: 300px;
 	margin: auto;
@@ -81,7 +81,7 @@ span {
 }
 a {
 	text-decoration: none;
-	color: #3D59AB;
+	color: #F8F8FF;
 	font-family: Verdana, sans-serif;
 }
 span {
@@ -90,5 +90,5 @@ span {
 	color: #ffffff;
 }
 #homepic div {
-    background-color:rgba(255,255,255,0.4);
+    background-color:rgba(255,255,255,0.3);
  }
