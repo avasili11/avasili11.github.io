@@ -16,6 +16,8 @@ h1 {font-family:Impact;
 #about {
 	height: 600px;
 	width:300px;
+	}
+#about {
 	border-radius: 5px;
 	border: 10px solid #F8F8FF;
 	background-color: #F8F8FF;
