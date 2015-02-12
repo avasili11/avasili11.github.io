@@ -13,15 +13,6 @@ h1 {font-family:Impact;
 	width: 1300px;
 	background-image: url("http://www.pradell.com/img/slides/zirmsauna02.jpg");
 }
-selectors {
-    border-radius: 5px;
-	border: 2px solid #F8F8FF;
-	background-color: #F8F8FF;
-	height: 600px;
-	width:300px;
-	text-align: center;
-	font-family: Garamond, serif;
-}
 #about {
 	display: inline;
 	position: relative;
