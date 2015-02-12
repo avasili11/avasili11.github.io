@@ -20,23 +20,23 @@ img {
 
 #navbar {
 	position: fixed;
-	top:20px;
+	top:30px;
 	left:50%;
-	margin-left:-260px;
+	margin-left:-280px;
 }
 
 #header {
 	position: relative;
-	top: -10px;
+	top: -30px;
 	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
 }
 
 ul{
 	list-style-type: none;
 	position: fixed;
-	margin: -10px;
+	margin: -30px;
 }
 
 li {
@@ -45,7 +45,7 @@ li {
 	font-family: Futura, Tahoma, sans-serif;
 	color: #ffffff;
 	padding: 5px;
-	border-radius: 5px 5px;
+	border-radius: 10px 10px;
 	background-color: #cc0323
 }
 
