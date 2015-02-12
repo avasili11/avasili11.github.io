@@ -14,11 +14,11 @@ h1 {font-family:Impact;
 	background-image: url("http://www.pradell.com/img/slides/zirmsauna02.jpg");
 }
 #about {
-	border-radius: 50px;
-	border: 10px solid #F8F8FF;
-	background-color: #F8F8FF;
 	height: 600px;
 	width:300px;
+	border-radius: 5px;
+	border: 10px solid #F8F8FF;
+	background-color: #F8F8FF;
 	text-align: center;
 	font-family: Garamond, serif;
     display: inline;
@@ -36,11 +36,11 @@ span {
 	color: #ffffff;
 }
 #services {
-	border-radius: 20px;
-	border: 2px solid #F8F8FF;
-	background-color: #F8F8FF;
 	height: 600px;
 	width:300px;
+	border-radius: 5px;
+	border: 2px solid #F8F8FF;
+	background-color: #F8F8FF;
 	text-align: center;
 	font-family: Garamond, serif;
     display: inline;
