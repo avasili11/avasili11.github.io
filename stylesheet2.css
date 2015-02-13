@@ -1,5 +1,4 @@
 .nav a {
-  margin: 0 auto;
   font-size: 20 px;
   font-weight: bold;
   text-align:center;
@@ -21,8 +20,8 @@
     background-color: #FFA500;
 }
 .nav li {
-  display: inline;
-  float:left;
+  display: inline-block;
+  list-style-type:none;
 }
 h1{
 	font-family: Verdana;
