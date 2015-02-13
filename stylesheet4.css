@@ -38,8 +38,8 @@ p {
 }
 .fb {
 	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
+	border: 2px solid #FFD700;
+	background-color: #FF8C00;
 	height: 50px;
 	width: 120px;
 	margin: auto;
@@ -48,7 +48,7 @@ p {
 
 .fb a {
 	text-decoration: none;
-	color: #3D59AB;
+	color: #FFD700;
 	font-family: Verdana, sans-serif;
 }
 
