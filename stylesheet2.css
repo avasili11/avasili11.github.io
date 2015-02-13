@@ -28,14 +28,10 @@ h1{
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
+	top:-60px;
 	padding-top: 65px;
 	padding-bottom: 25px;
 	color: #acd1b2;
 }
-#header {
-	position: relative;
-	top: -60px;
-	border-top-left-radius: 25px;
-	border-top-right-radius: 25px;
-}
+
 
