@@ -21,7 +21,7 @@
     background-color: #FFA500;
 }
 .nav li {
-  display: inline-block;
+  display: inline
   float:left;
 }
 h1{
