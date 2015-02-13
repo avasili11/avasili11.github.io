@@ -24,7 +24,7 @@
   display: inline;
   float:left;
 }
-div.img {
+.div.img {
     margin: 5px;
     padding: 5px;
     border: 1px solid #0000ff;
@@ -34,7 +34,7 @@ div.img {
     text-align: center;
 }	
 
-div.img img {
+.div.img img {
     display: inline;
     margin: 5px;
     border: 1px solid #ffffff;
