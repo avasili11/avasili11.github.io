@@ -1,13 +1,13 @@
 .nav a {
-  margin: 25px 50px 75px 100px;
-  width: 70%
-  font-size: 11px;
+  font-size: 20 px;
   font-weight: bold;
+  text-align:center;
   padding: 10px;
   text-transform: uppercase;
+  display: inline-block;
+  list-style-type:none;
 }
 .nav a:link, a:visited {
-    display: inline;
     width: 250px;
     font-weight: bold;
     color: #F4A460;
@@ -21,7 +21,7 @@
     background-color: #FFA500;
 }
 .nav li {
-  display: inline;
+  display: inline-block;
   float:left;
 }
 h1{
