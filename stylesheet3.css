@@ -6,11 +6,11 @@
   margin-top: 50px;
   margin-bottom: 150px;
   mmargin-left: 150px;
-  margin-right: 150px;
+  margin-right: 200px;
 }
 .nav a:link, a:visited {
     display: inline;
-    width: 150px;
+    width: 100px;
     font-weight: bold;
     color: #FFFFFF;
     background-color: #F4A460;
