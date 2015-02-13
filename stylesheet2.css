@@ -1,10 +1,10 @@
 .nav a {
-  font-size: 20 px;
+  font-size: 20px;
   font-weight: bold;
   text-align:center;
   padding: 10px;
   text-transform: uppercase;
-  display: inline-block;
+  display:inline-block;
   list-style-type:none;
 }
 .nav a:link, a:visited {
@@ -22,7 +22,7 @@
 }
 .nav li {
   display:inline-block;
-  float: left;
+  float:left;
 }
 h1{
 	font-family: Verdana;
