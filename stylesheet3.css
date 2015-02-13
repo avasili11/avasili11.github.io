@@ -25,11 +25,11 @@
   float:left;
 }
 img {
-	width:100px;
-	height:100px;
+	width:200px;
+	height:200px;
 }
 
 table, td {
 	border: 1px #70b8ff dashed;
-	margin: 100px;
+	margin: 200px;
 }
