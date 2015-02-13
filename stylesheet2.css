@@ -32,4 +32,11 @@ h1{
 	padding-bottom: 25px;
 	color: #acd1b2;
 }
+#header {
+	position: relative;
+	top: -60px;
+	background-color: #3c4543;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+}
 
