@@ -16,6 +16,10 @@ h1 {font-family:Impact;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+.navbar {
+    height:500px;
+    width:100px;
+    padding:30px;}
 #about {
 	border-radius: 5px;
 	border: 2px solid #F8F8FF;
@@ -25,6 +29,7 @@ h1 {font-family:Impact;
     display: inline;
 	position: relative;
 	margin-left: 25px;
+	padding: 30px;
 }
 a {
 	text-decoration: none;
