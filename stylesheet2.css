@@ -24,5 +24,6 @@
   display: inline;
   float:left;
 }
-h1{word-spacing: 2em;
+h1{text-indent: 50%;
+   word-spacing:20px;
 }
