@@ -24,7 +24,7 @@
   display: inline;
   float:left;
 }
-h1{text-indent: 50px;
-   word-spacing:60px;
+#h1{position:absolute;
+    top:25%;
 }
 
