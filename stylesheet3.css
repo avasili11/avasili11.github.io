@@ -24,7 +24,7 @@
   display: inline;
   float:left;
 }
-head {font-weight:bold;
+#head {font-weight:bold;
       font-size: 50px;
       color:#6A5ACD;
 }
