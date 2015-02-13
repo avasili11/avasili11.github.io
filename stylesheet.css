@@ -16,7 +16,7 @@ h1 {font-family:Impact;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-ul.navigation-bar {
+ul.nav {
    list-style-type: none;
    background-image: -webkit-linear-gradient(top, silver, midnightblue);
    background-image:    -moz-linear-gradient(top, silver, midnightblue);
@@ -28,14 +28,14 @@ ul.navigation-bar {
    background-color: midnightblue; /* IE6...IE9 */
    *line-height: 3.2em; /* IE6,IE7 */
    }
-ul.navigation-bar li {
+ul.nav li {
    display: table-cell;
    *display: inline; /* IE6,IE7 */
    }
-ul.navigation-bar li.current, ul.navigation-bar li:hover {
+ul.nav li.current, ul.nav li:hover {
    background-color: rgba(255, 255, 255, 0.2);
    }
-ul.navigation-bar li a {
+ul.nav li a {
    display: table-cell;
    text-decoration: none;
    outline: none;
