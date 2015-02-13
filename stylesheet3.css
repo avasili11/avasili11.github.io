@@ -8,7 +8,20 @@
   mmargin-left: 150px;
   margin-right: 50px;
 }
-
+.nav a:link, a:visited {
+    display: block;
+    width: 200px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #FFD700;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.nav a:hover, a:active {
+    background-color: #FFA500;
+}
 .nav li {
   display: inline;
   float:left;
