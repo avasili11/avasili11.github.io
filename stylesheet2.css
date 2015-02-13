@@ -22,6 +22,7 @@
 }
 .nav li {
   display: inline;
+  float: inherit;
 }
 h1{
 	font-family: Verdana;
