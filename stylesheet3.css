@@ -1,8 +1,10 @@
 .nav a {
   font-size: 11px;
-  position:relative;
-  top: 50px;
-  bottom: 150px;
+  font-weight: bold;
+  padding: 10px;
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 150px;
   mmargin-left: 150px;
   margin-right: 200px;
 }
@@ -13,7 +15,7 @@
     color: #FFFFFF;
     background-color: #F4A460;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     text-decoration: none;
     text-transform: uppercase;
 }
