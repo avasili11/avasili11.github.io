@@ -4,6 +4,10 @@
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
 }
 
 .nav li {
