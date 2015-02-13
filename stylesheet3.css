@@ -24,6 +24,10 @@
   display: inline;
   float:left;
 }
+head {font-weight:bold;
+      font-size: 20px;
+      text-transform:italics;
+}
 img {
 	width:300px;
 	height:200px;
