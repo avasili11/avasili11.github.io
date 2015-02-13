@@ -24,10 +24,3 @@
   display: inline;
   float:left;
 }
-@font-face {
-   font-family: Herculanum;
-   src: url("http://www.urbanfonts.com/images/cache/tooltips/bfdfc94d211e0cc13968644f695580ae.jpg");
-}
-div {
-   font-family: Herculanum;
-}
