@@ -18,7 +18,7 @@
     text-transform: uppercase;
 }
 .nav a:hover, a:active {
-    background-color: #FFD700;
+    background-color: #FAEBD7;
 }
 .nav li {
   display:inline-block;
