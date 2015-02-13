@@ -31,9 +31,6 @@ nav ul {
 	position: relative;
 	display: inline-table;
 }
-nav ul:after {
-		content: ""; clear: both; display: block;
-	}
 nav ul li {
 	float: left;
 }
