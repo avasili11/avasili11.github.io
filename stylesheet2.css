@@ -21,8 +21,8 @@
     background-color: #FFA500;
 }
 .nav li {
-  display: inline
-  float:left;
+  display: inline;
+  list-style-type:none;
 }
 h1{
 	font-family: Verdana;
