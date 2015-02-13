@@ -17,19 +17,17 @@ h1 {font-family:Impact;
 	background-attachment: fixed;
 }
 ul.nav {
-   list-style-type: none;
-   background-image: -webkit-linear-gradient(top, silver, midnightblue);
-   background-image:    -moz-linear-gradient(top, silver, midnightblue);
-   background-image:     -ms-linear-gradient(top, silver, midnightblue);
-   background-image:         linear-gradient(top, silver, midnightblue);
+   list-style: none;
+   display:block;
    border: 2px solid dimgray;
    padding: 0px;
-   margin: 0px;
+   margin: 1em;
    background-color: midnightblue;
    *line-height: 3.2em;
    }
 ul.nav li {
    display: table-cell;
+   width:100px;
    *display: inline;
    }
 ul.nav li.current, ul.nav li:hover {
