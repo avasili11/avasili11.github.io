@@ -40,11 +40,11 @@
     border: 1px solid #ffffff;
 }
 
-div.img a:hover img {
+.div.img a:hover img {
     border: 1px solid #0000ff;
 }
 
-div.desc {
+.div.desc {
   text-align: center;
   font-weight: normal;
   width: 120px;
