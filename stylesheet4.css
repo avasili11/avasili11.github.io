@@ -24,3 +24,11 @@
   display: inline;
   float:left;
 }
+h1{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	color: #acd1b2;
+}
