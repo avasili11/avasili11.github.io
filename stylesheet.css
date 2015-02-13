@@ -30,6 +30,7 @@ nav ul {
 	list-style: none;
 	position: relative;
 	display: inline-table;
+	opacity:0.3;
 }
 nav ul li {
 	float: left;
