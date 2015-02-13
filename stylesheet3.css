@@ -9,7 +9,7 @@
   margin-right: 50px;
 }
 .nav a:link, a:visited {
-    display: block;
+    display: inline;
     width: 100px;
     font-weight: bold;
     color: #FFFFFF;
