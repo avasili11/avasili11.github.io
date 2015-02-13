@@ -2,7 +2,7 @@
   color: #5a5a5a;
   font-size: 11px;
   font-weight: bold;
-  padding: 15px;
+  padding: 10px;
   text-transform: uppercase;
   margin-top: 80px;
   mmargin-left: 150px;
@@ -24,5 +24,5 @@
 }
 .nav li {
   display: inline;
-  float:middle;
+  float:right;
 }
