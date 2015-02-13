@@ -1,9 +1,6 @@
-.nav {width:750px;
-     margin:0 auto;
-     list-style:none;
-}
 .nav a {
-  width: 150px;
+  width: 750px;
+  margin:0 auto;
   font-size: 11px;
   font-weight: bold;
   text-align:center;
