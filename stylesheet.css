@@ -25,10 +25,10 @@ nav ul {
 	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
 	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
 	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
-	padding: 0 20px;
+	padding: 20px 20px;
 	border-radius: 10px;  
 	list-style: none;
-	position: center;
+	position: relative;
 	display: inline-table;
 	opacity:0.4;
 }
