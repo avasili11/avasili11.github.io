@@ -4,9 +4,12 @@
   text-align:center;
   padding: 10px;
   text-transform: uppercase;
+  display: inline-block;
+  list-style-type:none;
 }
 .nav a:link, a:visited {
-    display: inline;
+    display: inline-block;
+    list-style-type:none;
     width: 250px;
     font-weight: bold;
     color: #F4A460;
@@ -22,6 +25,7 @@
 .nav li {
   display: inline-block;
   list-style-type:none;
+  float:left;
 }
 h1{
 	font-family: Verdana;
