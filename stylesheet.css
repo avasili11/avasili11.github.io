@@ -28,9 +28,9 @@ nav ul {
 	padding: 0 20px;
 	border-radius: 10px;  
 	list-style: none;
-	position: relative;
+	position: center;
 	display: inline-table;
-	opacity:0.3;
+	opacity:0.4;
 }
 nav ul li {
 	float: left;
