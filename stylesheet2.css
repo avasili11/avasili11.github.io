@@ -4,7 +4,7 @@
   text-align:center;
   padding: 10px;
   text-transform: uppercase;
-  display: inline-block;
+  display: inline;
   list-style-type:none;
 }
 .nav a:link, a:visited {
@@ -21,7 +21,7 @@
     background-color: #FFA500;
 }
 .nav li {
-  display: inline-block;
+  display: inline;
   float: left;
 }
 h1{
