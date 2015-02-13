@@ -29,7 +29,7 @@ nav ul {
 	border-radius: 10px;  
 	list-style: none;
 	position: relative;
-	margin: 100px 100px 200px 100px;
+	margin: 100px 100px 100px 100px;
 	display: inline-table;
 	opacity:0.5;
 }
@@ -47,6 +47,6 @@ nav ul li:hover {
 		}
 nav ul li a {
 		display: block; padding: 25px 40px;
-		color: #757575; text-decoration: none;
+		color: #000000; text-decoration: none;
 	}
    
