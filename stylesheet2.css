@@ -8,8 +8,6 @@
   list-style-type:none;
 }
 .nav a:link, a:visited {
-    display: inline-block;
-    list-style-type:none;
     width: 250px;
     font-weight: bold;
     color: #F4A460;
