@@ -1,5 +1,6 @@
 .nav a {
   font-size: 11px;
+  position:relative;
   margin-top: 50px;
   margin-bottom: 150px;
   mmargin-left: 150px;
@@ -7,12 +8,12 @@
 }
 .nav a:link, a:visited {
     display: inline;
-    width: 200px;
+    width: 150px;
     font-weight: bold;
     color: #FFFFFF;
     background-color: #F4A460;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     text-decoration: none;
     text-transform: uppercase;
 }
