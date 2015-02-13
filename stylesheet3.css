@@ -1,8 +1,8 @@
 .nav a {
   font-size: 11px;
   position:relative;
-  margin-top: 50px;
-  margin-bottom: 150px;
+  top: 50px;
+  bottom: 150px;
   mmargin-left: 150px;
   margin-right: 200px;
 }
