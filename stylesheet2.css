@@ -21,7 +21,8 @@
     background-color: #FFA500;
 }
 .nav li {
-  float: right;
+  width: 20em;
+  float: left;
 }
 h1{
 	font-family: Verdana;
