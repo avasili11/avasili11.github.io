@@ -19,17 +19,17 @@ h1 {font-family:Impact;
 .navbar {
     height:500px;
     width:100px;
-    padding:30px;}
+    padding:30px;
+    display: inline;
+	position: relative;
+	margin-left: 25px;}
 #about {
 	border-radius: 5px;
 	border: 2px solid #F8F8FF;
 	background-color: #F8F8FF;
 	text-align: center;
 	font-family: Garamond, serif;
-    display: inline;
-	position: relative;
-	margin-left: 25px;
-	padding: 30px;
+	padding-top: 30px;
 }
 a {
 	text-decoration: none;
