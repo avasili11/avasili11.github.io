@@ -1,5 +1,5 @@
 .nav a {
-  margin: 25px 50px 75px 100px;
+  margin: 35px 50px 75px 90px;
   width: 70%
   font-size: 11px;
   font-weight: bold;
@@ -14,8 +14,6 @@
     background-color: #FFFFFF;
     text-align: center;
     padding: 10px;
-    padding-left:20px;
-    padding-right:20px;
     text-decoration: none;
     text-transform: uppercase;
 }
