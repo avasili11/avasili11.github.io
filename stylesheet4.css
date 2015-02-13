@@ -75,6 +75,7 @@ p {
 }
 
 label {
+    font-family:Verdana;
 	float: left;
 	text-align: right;
 	margin-right: 15px;
