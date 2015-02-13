@@ -16,36 +16,32 @@ h1 {font-family:Impact;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-#navig li {
-        list-style: none;
-        display: block;
-        float: left;
-        margin: 1em;
-}
-#navig li a {
-        text-shadow: 0 2px 1px rgba(0,0,0,0.5);
-        display: block;
-        text-decoration: none;
-        color: #f0f0f0;
-        font-size: 1.6em;
-        margin: 0 .5em;
-}
-#navig li a:hover {
-        margin-top: 2px;
-}
-#navig_cont {
-   margin: 0 auto;
-   width: 960px;
-}
-.rectangle {
-   background: #e5592e;
-   height: 100px;
-   position: relative;
-   -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
-   box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
-   -webkit-border-radius: 3px;
-   -moz-border-radius: 3px;
-   border-radius: 3px;
-   z-index: 500;
-   margin: 3em 0;
-}
+ul.navigation-bar {
+   list-style-type: none;
+   background-image: -webkit-linear-gradient(top, silver, midnightblue);
+   background-image:    -moz-linear-gradient(top, silver, midnightblue);
+   background-image:     -ms-linear-gradient(top, silver, midnightblue);
+   background-image:         linear-gradient(top, silver, midnightblue);
+   border: 2px solid dimgray;
+   padding: 0px;
+   margin: 0px;
+   background-color: midnightblue; /* IE6...IE9 */
+   *line-height: 3.2em; /* IE6,IE7 */
+   }
+ul.navigation-bar li {
+   display: table-cell;
+   *display: inline; /* IE6,IE7 */
+   }
+ul.navigation-bar li.current, ul.navigation-bar li:hover {
+   background-color: rgba(255, 255, 255, 0.2);
+   }
+ul.navigation-bar li a {
+   display: table-cell;
+   text-decoration: none;
+   outline: none;
+   font-size: 120%;
+   color: white;
+   border-right: 2px solid dimgray;
+   padding: 15px 25px; /* sets button size */
+   }
+   
