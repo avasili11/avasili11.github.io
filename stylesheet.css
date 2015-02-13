@@ -16,15 +16,27 @@ h1 {font-family:Impact;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-.nav a {
-    height:500px;
-    width:100px;
-    padding:30px;
-    display: inline;
-	position: relative;
-	top: 91px;
-	left:55px;
-	}
+#navig li {
+        list-style: none;
+        display: block;
+        float: left;
+        margin: 1em;
+}
+#navig li a {
+        text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+        display: block;
+        text-decoration: none;
+        color: #f0f0f0;
+        font-size: 1.6em;
+        margin: 0 .5em;
+}
+#navig li a:hover {
+        margin-top: 2px;
+}
+#navig_cont {
+   margin: 0 auto;
+   width: 960px;
+}
 #about {
 	border-radius: 5px;
 	border: 2px solid #F8F8FF;
