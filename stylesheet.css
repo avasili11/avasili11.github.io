@@ -19,7 +19,7 @@ h1 {font-family:Impact;
 #navbar {
 	position:fixed;
 	margin-top:100px;
-	left:30%;
+	left:40%;
 	margin-left:-254px;
 }
 ul{
@@ -38,6 +38,7 @@ li {
 	color: #ffffff;
 	border-radius: 5px 5px;
 	background-color: #F8D273;
+	opacity:transparent 0.5px;
 }
 
 
