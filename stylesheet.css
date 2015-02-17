@@ -7,6 +7,7 @@ h1 {font-family:Impact;
     padding-top:25px;
     padding-bottom:25px
     color: black;
+	position:fixed;
 }
 #homepic {
 	height:900px;
@@ -19,7 +20,7 @@ h1 {font-family:Impact;
 #navbar {
 	position:fixed;
 	margin-top:100px;
-	left:30%;
+	left:35%;
 	margin-left:-254px;
 }
 ul{
