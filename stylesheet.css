@@ -19,7 +19,7 @@ h1 {font-family:Impact;
 #navbar {
 	position:fixed;
 	margin-top:100px;
-	left:35%;
+	left:33%;
 	margin-left:-254px;
 }
 ul{
@@ -35,6 +35,9 @@ li {
 	padding:5px;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
+	padding-left:10px;
+	padding-right:15px;
+	padding-top:30px;
 	color: #ffffff;
 	border-radius: 5px 5px;
 	background-color: #F8D273;
