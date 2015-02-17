@@ -40,6 +40,9 @@ li {
 	background-color: #F8D273;
 	opacity:0.4;
 }
+li a {
+padding: 15px 15px 30px 10px;
+}
 
 
    
