@@ -16,13 +16,26 @@ h1 {font-family:Impact;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-#nav {
-height:200px;
-width:100px;
-border:1px solid white;
-border-radius:5px;
-display:inline-block;
-background-color:#FFD700;
+#navbar {
+	position:fixed;
+	margin-top:-10px;
+	left:50%;
+	margin-left:-254px;
+}
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	display:inline-block;
+	padding:5px;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	border-radius: 5px 5px;
+	background-color: #cc0323
 }
 
    
