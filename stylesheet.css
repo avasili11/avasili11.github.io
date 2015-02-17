@@ -19,7 +19,7 @@ h1 {font-family:Impact;
 #navbar {
 	position:fixed;
 	margin-top:200px;
-	left:20%;
+	left:10%;
 	margin-left:-254px;
 }
 ul{
@@ -30,8 +30,8 @@ ul{
 
 li {
 	display:inline-block;
-	width:200px;
-	height:100px;
+	width:250px;
+	height:500px;
 	padding:5px;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
