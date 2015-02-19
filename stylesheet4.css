@@ -1,3 +1,9 @@
+div{
+  background: #466368;
+  background: linear-gradient(#648880, #293f50);
+  border-radius: 6px;
+  height: 120px;
+}
 .nav a {
   font-size: 20px;
   font-weight: bold;
@@ -23,12 +29,6 @@
 .nav li {
    display:inline-block;
    float:left;
-}
-div {
-  background: #466368;
-  background: -webkit-linear-gradient(#648880, #293f50);
-  background:    -moz-linear-gradient(#648880, #293f50);
-  background:         linear-gradient(#648880, #293f50);
 }
 h1{
 	font-family:Papyrus, fantasy;
