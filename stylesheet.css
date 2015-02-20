@@ -11,12 +11,12 @@ h1 {font-family:Papyrus, fantasy;
     text-align:center;
     padding-top:25px;
     padding-bottom:25px
-    color:#E6BE1D;
+    color:#F5D678;
 }
 h2 {font-family:Papyrus, fantasy;
     font-size:30px;
     text-align:center;
-    color:#E6BE1D;
+    color:#F5D678;
 }
 #navbar {
 	position:fixed;
@@ -39,7 +39,7 @@ li {
 	padding:5px;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
-	color: #ffffff;
+	color:#F5D678;
 	border-radius: 5px 5px;
 	background-color: #F8D273;
 	opacity:0.4;
