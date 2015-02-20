@@ -9,6 +9,11 @@ h1 {font-family:Papyrus, fantasy;
     padding-bottom:25px
     color:black;
 }
+h2 {font-family:Papyrus, fantasy;
+    font-size:30px;
+    text-align:center;
+    color:black;
+}
 #homepic {
 	height:900px;
 	width: 1500px;
