@@ -27,7 +27,7 @@ h2 {font-family:Papyrus, fantasy;
 }
 ul{
 	list-style-type: none;
-	position:no-repeat center center fixed;
+	position:center;
 	margin: -10px;
 }
 
