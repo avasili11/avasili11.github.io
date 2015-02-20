@@ -14,14 +14,17 @@ h2 {font-family:Papyrus, fantasy;
     text-align:center;
     color:black;
 }
-#homepic {
-	height:500px;
-	width: 1200px;
-	background-image: url("http://www.monte-mare.de/upload/Sauna_Kelle_7181.jpg?w=1200&mode=crop&maxheight=500&scale=both");
-	background-size:auto auto;
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+.bg {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -5000;
+    height: 100%;
+}
+.maincontainer {
+    height: 1000px;
+    z-index: 5000;
 }
 #navbar {
 	position:fixed;
@@ -48,12 +51,5 @@ li {
 	border-radius: 5px 5px;
 	background-color: #F8D273;
 	opacity:0.4;
-}
-
-html, body { 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover; 
 }
    
