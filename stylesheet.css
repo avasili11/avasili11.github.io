@@ -48,8 +48,13 @@ bottom:0;
 width:100%;
 height:100px;
 }
-p {font-family:Papyrus, fantasy;
+h3 {font-family:Papyrus, fantasy;
     font-size:30px;
     text-align:center;
     color:#F5D678;
 }  
+p {font-family:Papyrus, fantasy;
+    font-size:15px;
+    text-align:center;
+    color:#F5D678;
+}
