@@ -17,7 +17,7 @@ h2 {font-family:Papyrus, fantasy;
 #homepic {
 	height:500px;
 	width: 1200px;
-	background-image: url("http://www.monte-mare.de/upload/Sauna_Kelle_7181.jpg?w=1200&mode=crop&maxheight=500&scale=both") no-repeat;
+	background-image: url("http://www.monte-mare.de/upload/Sauna_Kelle_7181.jpg?w=1200&mode=crop&maxheight=500&scale=both");
 	background-size:auto auto;
 	background-position: center center;
 	background-repeat: no-repeat;
