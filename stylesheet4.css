@@ -57,6 +57,9 @@ p {
 	font-size: 18px;
 	color: #ffffff;
 }
+#map {
+    margin:20px auto;
+}
 #page-wrap {
 	width: 660px;
 	background: white;
