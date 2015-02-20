@@ -36,6 +36,11 @@ p {
 	font-size: 1.3em;
 	margin-bottom: 15px;
 }
+h4{
+    font-family:Verdana;
+    font-size:1.3em;
+    text-align:center;
+ }
 .fb {
 	border-radius: 5px;
 	border: 2px solid #FFD700;
