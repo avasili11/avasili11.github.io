@@ -50,5 +50,10 @@ li {
 	opacity:0.4;
 }
 
-
+html, body { 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; 
+}
    
