@@ -13,11 +13,6 @@ h1 {font-family:Papyrus, fantasy;
     padding-top:25px;
     padding-bottom:15px
 }
-h2 {font-family:Papyrus, fantasy;
-    font-size:30px;
-    text-align:center;
-    color:#F5D678;
-}
 #navbar {
 	position:fixed;
 	margin-top:40px;
@@ -47,4 +42,8 @@ li {
 	background-color: #F8D273;
 	opacity:0.4;
 }
-   
+h2 {font-family:Papyrus, fantasy;
+    font-size:30px;
+    text-align:center;
+    color:#F5D678;
+}  
