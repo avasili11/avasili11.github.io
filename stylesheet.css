@@ -1,3 +1,10 @@
+html { 
+  background: url("http://www.p15.de/upload/image/sauna.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 body {
     background-color:#F8D273;
 }
@@ -13,18 +20,6 @@ h2 {font-family:Papyrus, fantasy;
     font-size:30px;
     text-align:center;
     color:black;
-}
-.bg {
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -5000;
-    height: 100%;
-}
-.maincontainer {
-    height: 1000px;
-    z-index: 5000;
 }
 #navbar {
 	position:fixed;
